@@ -1,0 +1,27 @@
+GROCERIES//////////////////////////////////////
+Walmart
+Target
+Kroger
+Albertsons
+Safeway
+Publix
+H-E-B
+Meijer
+Whole Foods Market
+Trader Joe's
+Aldi
+Costco
+Sam's Club
+BJ's Wholesale Club
+Food Lion
+Winn-Dixie
+Stop & Shop
+Giant Food
+Harris Teeter
+Sprouts Farmers Market
+Piggly Wiggly
+Instacart
+Shipt
+Amazon Groceries
+Walmart Neighborhood Mkt
+WM

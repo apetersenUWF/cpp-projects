@@ -1,0 +1,42 @@
+AUTO//////////////////////////////////////////
+Gas
+Shell
+ExxonMobil
+Chevron
+BP
+Valero
+7-Eleven
+Circle K
+Speedway
+QuickTrip
+Pilot Flying J
+Truck Stop
+AutoZone
+Auto Parts
+Pep Boys
+Tire Shop
+Discount Tire
+Les Schwab
+Goodyear
+Firestone
+Car Wash
+Jiffy Lube
+Car Repair
+Mechanic
+EZ Pass
+SunPass
+Toll Fee
+Parking Garage
+Uber
+Lyft
+Hertz
+Rent-A-Car
+RaceTrac
+Z1
+Cefco
+Sunstop
+Super Station
+Marathon
+Murphy Express
+Take 5
+Express Oil
